@@ -1,1 +1,1 @@
-# TF-IDF-and-Vector-Space-Model.
+This project will employ a Vector Space Model with TF-IDF to rank pages based on how similar they are to search queries. The objective is to design a system that effectively computes and rates document relevance, boosting knowledge of retrieval systems and search engines. The end result will be a ranking of documents based to query relevancy.
