@@ -1,0 +1,47 @@
+Cosine similarities for query 'Why is my internet speed slow despite having an unlimited plan on Verizon?':
+Document 6: 0.3957
+Document 5: 0.0540
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 4: 0.0000
+Document 7: 0.0000
+Document 8: 0.0000
+Document 9: 0.0000
+Document 10: 0.0000
+
+Cosine similarities for query 'What should I do if I receive the wrong item in my Amazon order, and the return option isn't available?':
+Document 9: 0.4219
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 4: 0.0000
+Document 5: 0.0000
+Document 6: 0.0000
+Document 7: 0.0000
+Document 8: 0.0000
+Document 10: 0.0000
+
+Cosine similarities for query 'How do I fix my iPhone 12 battery draining quickly after the iOS update?':
+Document 8: 0.3617
+Document 9: 0.1218
+Document 5: 0.1142
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 4: 0.0000
+Document 6: 0.0000
+Document 7: 0.0000
+Document 10: 0.0000
+
+Cosine similarities for query 'Why does the Spotify app crash when playing songs on my playlist?':
+Document 10: 0.1641
+Document 5: 0.1583
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 4: 0.0000
+Document 6: 0.0000
+Document 7: 0.0000
+Document 8: 0.0000
+Document 9: 0.0000
