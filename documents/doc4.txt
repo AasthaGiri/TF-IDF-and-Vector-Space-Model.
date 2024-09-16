@@ -1,0 +1,2 @@
+﻿@SpotifyCares Every time I try to play a song on my playlist, the app crashes within seconds. It only started happening today, but now I can't play anything! Any advice?
+@520630 We're sorry for the inconvenience! DM us the version of the app you’re using, the device type, and if possible, let us know when the issue started. We’ll work on getting this fixed for you. ^LT https://t.co/SupportSpotify

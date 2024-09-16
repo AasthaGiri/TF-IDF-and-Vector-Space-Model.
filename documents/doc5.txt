@@ -1,0 +1,2 @@
+﻿@GoogleHelp My Gmail app keeps getting stuck in "sending" mode whenever I try to send an email, even though I have a stable internet connection. How can I fix this?
+@620730 We’re sorry to hear that! Please DM us the email address you’re experiencing the issue with, as well as the app version and device you’re using. We'll guide you through the troubleshooting steps to get this resolved. ^NL https://t.co/GmailSupport
